@@ -75,56 +75,6 @@
 
 ---
 
-<!-- ═══════════════ FEATURED PROJECT ══════════════════ -->
-## 🔬 &nbsp; Featured Research Project
-
-<table>
-<tr>
-<td width="65%">
-
-### 🎙️ Cough-Based Biometric Verification System
-> *AI4LYF Internship — Active Research Project*
-
-A deep learning system that **verifies person identity from cough audio** — like a fingerprint, but using your cough sound signature.
-
-**Achievements:**
-
-- 🏗️ Two-stage pipeline: ResNet-1D detector → Siamese CNN verifier
-- 📊 Mel-spectrogram features + **Triplet Loss** training
-- 🎯 **EER = 13.3%** &nbsp;·&nbsp; GAR = 83.3% @ FAR = 0.0%
-- 📱 Full Streamlit app: enroll → verify → dashboard
-- 🔢 43 subjects · 19.5M parameter architecture
-
-**Stack:** `Python` &nbsp;·&nbsp; `TensorFlow` &nbsp;·&nbsp; `librosa` &nbsp;·&nbsp; `Streamlit` &nbsp;·&nbsp; `NumPy`
-
-</td>
-<td width="35%" align="center">
-
-```
-  Audio Input 🎙️
-       ↓
-┌──────────────┐
-│  ResNet-1D   │
-│  Cough       │
-│  Detector    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│  Siamese CNN │
-│  Mel-Spec    │
-│  Triplet Loss│
-└──────┬───────┘
-       ↓
- Identity ✅ / ❌
-  EER = 13.3%
-```
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- ═══════════════ GITHUB STATS ═════════════════════ -->
 ## 📊 &nbsp; GitHub Stats
 
