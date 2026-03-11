@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kashif%20Muneer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20Intern%20%7C%20Computer%20Engineer%20%7C%20UET%20Lahore&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ═══════════════ TYPING ANIMATION ═════════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+Intern+%40+AI4LYF;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Cough+Biometrics+%7C+Signal+Processing;Python+%7C+TensorFlow+%7C+PyTorch;Building+intelligent+systems+from+scratch!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+Intern+%40+AI4LYF;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Audio+%7C+Signal+Processing;Python+%7C+TensorFlow+%7C+PyTorch;Building+intelligent+systems+from+scratch!" alt="Typing SVG" />
 
 <br/>
 
