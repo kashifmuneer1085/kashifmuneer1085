@@ -108,7 +108,7 @@
 | ✅ Completed | Siamese Networks · Triplet Loss · Biometrics · Streamlit Apps |
 | 🔄 In Progress | LLMs · Prompt Engineering · RAG Pipelines · AI Agents |
 | 🎯 Up Next | Fine-tuning (LoRA/QLoRA) · MLOps · Computer Vision · NLP |
-| 🔮 Goal | Production AI Systems · iPhone Deployment · Open-Source |
+| 🔮 Goal | Production AI Systems · Android/iPhone Deployment · Open-Source |
 
 ---
 
