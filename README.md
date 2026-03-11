@@ -117,7 +117,6 @@
 
 | Project | Tech | Description |
 |---|---|---|
-| 🎙️ Cough Biometric Verifier | Python · TF · librosa | Identity verification from cough audio using Siamese CNN |
 | 🤖 [Jarvis Google Assistant](https://github.com/kashifmuneer1085/Jarvis-Google-Assistant-Project) | Python | Voice-controlled AI assistant with Google integration |
 | 🌍 [AI Language Detector](https://github.com/kashifmuneer1085/AI-Language-Detector-and-Translator) | Python · NLP | Naive Bayes language detection + EN→FR/Urdu translation |
 | 🏫 [College Management System](https://github.com/kashifmuneer1085/College-Management-System) | Python | Full college admin system for employees & students |
