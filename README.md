@@ -77,20 +77,16 @@
 
 <!-- ═══════════════ GITHUB STATS ═════════════════════ -->
 ## 📊 &nbsp; GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashifmuneer1085&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmuneer1085&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kashifmuneer1085&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmuneer1085&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifmuneer1085&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9000&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashifmuneer1085&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9000&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kashifmuneer1085&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff9000&area=true&area_color=58a6ff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashifmuneer1085&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff9000&area=true" width="95%"/>
 </div>
-
 ---
 
 <!-- ═══════════════ LEARNING JOURNEY ═════════════════ -->
