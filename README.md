@@ -128,8 +128,11 @@
 <!-- ═══════════════ TROPHIES ═══════════════════════════ -->
 ## 🏆 &nbsp; GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kashifmuneer1085&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&cache_seconds=86400)
+## 🏆 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=kashifmuneer1085&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=kashifmuneer1085&theme=tokyonight)
 ---
 
 <!-- ═══════════════ CONNECT ═══════════════════════════ -->
