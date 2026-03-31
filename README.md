@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kashifmuneer1085&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&cache_seconds=86400&v=2" width="95%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kashifmuneer1085&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&cache_seconds=86400" width="95%" onerror="this.style.display='none'"/>
 
 </div>
 
