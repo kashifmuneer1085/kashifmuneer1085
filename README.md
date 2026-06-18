@@ -31,7 +31,7 @@
 
 🚀 &nbsp; Exploring **Generative AI · LLMs · RAG Systems · AI Agents · MLOps**  
 
-🧠 &nbsp; Passionate about **Artificial Intelligence · Deep Learning · Computer Vision · NLP · Signal Processing**  
+🧠 &nbsp; Passionate about **Artificial Intelligence · Machine Learning · Deep Learning · Computer Vision · NLP · Signal Processing**  
 
 🔬 &nbsp; Focused on building scalable AI products that bridge research and real-world impact  
 
