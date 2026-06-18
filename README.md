@@ -23,17 +23,21 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-🎓 &nbsp; **Computer Engineering** graduate from **UET Lahore**
+🎓 &nbsp; **BS Computer Engineering Graduate** from **UET Lahore**
 
-💼 &nbsp; Currently working as **AI/ML Engineer Intern** at **AI4LYF**
+💼 &nbsp; **Associate ML Engineer** at **14Labs**, developing AI-powered solutions, machine learning models, and intelligent systems  
 
-🌱 &nbsp; Learning **LLMs · RAG Pipelines · AI Agents · MLOps**
+🔹 &nbsp; Previously worked as an **AI/ML Engineer Intern** at **AI4LYF**, where I gained hands-on experience in audio intelligence, deep learning, feature engineering, embeddings, and machine learning workflows  
 
-🧠 &nbsp; Passionate about **Deep Learning · Computer Vision · NLP · Signal Processing**
+🚀 &nbsp; Exploring **Generative AI · LLMs · RAG Systems · AI Agents · MLOps**  
 
-📍 &nbsp; Based in **Lahore, Pakistan**
+🧠 &nbsp; Passionate about **Artificial Intelligence · Deep Learning · Computer Vision · NLP · Signal Processing**  
 
-🤝 &nbsp; Open to **collaborations, research projects & AI discussions**
+🔬 &nbsp; Focused on building scalable AI products that bridge research and real-world impact  
+
+📍 &nbsp; Lahore, Pakistan  
+
+🤝 &nbsp; Open to **AI/ML opportunities, research collaborations, open-source contributions, and innovative projects**
 
 <br clear="right"/>
 
